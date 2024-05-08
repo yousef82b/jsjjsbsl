@@ -1,1 +1,1 @@
-gunicorn app:app
+worker: python bot2.py
